@@ -4,9 +4,37 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/FitDecode.h</key>
+		<data>
+		/sSBB3wTbatt0KdEAI/IjjDdAok=
+		</data>
+		<key>Headers/FitDeveloperField.h</key>
+		<data>
+		aB5dQRabKyzqdzsdsIGw7xDSF78=
+		</data>
+		<key>Headers/FitEncode.h</key>
+		<data>
+		rG8A4gA3ZSq1QbKJEdvUCUwgOhE=
+		</data>
+		<key>Headers/FitField.h</key>
+		<data>
+		8Hr4uI5DNcRDszB8we+9m7r8Ivw=
+		</data>
+		<key>Headers/FitFieldDefinition.h</key>
+		<data>
+		kka+mAW14Ua+2i2qE6XU9/4fXzU=
+		</data>
+		<key>Headers/FitMesg.h</key>
+		<data>
+		NX7Cgee1n/S7PIzOYWvD1BkogZQ=
+		</data>
+		<key>Headers/FitMesgDefinition.h</key>
+		<data>
+		q89sn2KyYrwdEAiQ6bwSQeZOFpQ=
+		</data>
 		<key>Headers/FitSDK.h</key>
 		<data>
-		2KVocg4eoihM4JvjAzAelR1fr6s=
+		8mzXcOpyjsDsaQWxCeQCLjKgeac=
 		</data>
 		<key>Headers/fit.hpp</key>
 		<data>
@@ -867,11 +895,60 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/FitDecode.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z/3+aUGRcxUeaWzB18Hy8D56EFJxxz8fCUW1p2H/MR8=
+			</data>
+		</dict>
+		<key>Headers/FitDeveloperField.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/nrTZnniuHO3+pZm7HvXa5+YanjEUcf00DqQjHVQat8=
+			</data>
+		</dict>
+		<key>Headers/FitEncode.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sR35dg1emdNL05VwMXwBwoqLOGXbu9xLCmCGs6jzGvI=
+			</data>
+		</dict>
+		<key>Headers/FitField.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IvPhlAG9DM9dgboRIO4phpGfdSak4ZWt11D9uBZDlUk=
+			</data>
+		</dict>
+		<key>Headers/FitFieldDefinition.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gLs5cfFGH0/r3e+L4m4d+Tg4qS0hOVOIK/8Dm9VDj7s=
+			</data>
+		</dict>
+		<key>Headers/FitMesg.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hDqdcUwqiSQCmuP/Jt4Z+ZFGcpo5KgeBAOtfL+dUwrk=
+			</data>
+		</dict>
+		<key>Headers/FitMesgDefinition.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0wLhXXbksC+x4j5uze9NwUwi1LI1yE+tUi1vfxU1VXo=
+			</data>
+		</dict>
 		<key>Headers/FitSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UVRbyoL0OpfoN1QN2BA07ARn8tIZGDmng21gCZmwS0Q=
+			lGfQka7bixxfm/o3KnDk56R2iMcvYgN51F+1SZPK8zM=
 			</data>
 		</dict>
 		<key>Headers/fit.hpp</key>
