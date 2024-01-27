@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "FITSDK",
-    platforms: [.iOS(.v15), .watchOS(.v10)],
+    platforms: [.iOS(.v15), .watchOS(.v8)],
     products: [
         .library(
             name: "FITSDK",
