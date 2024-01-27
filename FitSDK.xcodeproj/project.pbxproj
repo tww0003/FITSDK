@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		535EC7142B65A7D1006A80E0 /* FitFieldDefinition.h in Headers */ = {isa = PBXBuildFile; fileRef = 535EC70D2B65A7D1006A80E0 /* FitFieldDefinition.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		535EC7152B65A7D1006A80E0 /* FitDeveloperField.h in Headers */ = {isa = PBXBuildFile; fileRef = 535EC70E2B65A7D1006A80E0 /* FitDeveloperField.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		535EC7162B65A7D1006A80E0 /* FitEncode.h in Headers */ = {isa = PBXBuildFile; fileRef = 535EC70F2B65A7D1006A80E0 /* FitEncode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		535EC7172B65A7D1006A80E0 /* FitMesg.h in Headers */ = {isa = PBXBuildFile; fileRef = 535EC7102B65A7D1006A80E0 /* FitMesg.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		535EC7182B65A7D1006A80E0 /* FitDecode.h in Headers */ = {isa = PBXBuildFile; fileRef = 535EC7112B65A7D1006A80E0 /* FitDecode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		535EC7192B65A7D1006A80E0 /* FitField.h in Headers */ = {isa = PBXBuildFile; fileRef = 535EC7122B65A7D1006A80E0 /* FitField.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		535EC71A2B65A7D1006A80E0 /* FitMesgDefinition.h in Headers */ = {isa = PBXBuildFile; fileRef = 535EC7132B65A7D1006A80E0 /* FitMesgDefinition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		53FDEC3F2B64820700577748 /* FitSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 53FDEC3E2B64820700577748 /* FitSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		53FDED312B64826100577748 /* fit_cadence_zone_mesg_listener.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 53FDEC452B64825B00577748 /* fit_cadence_zone_mesg_listener.hpp */; settings = {ATTRIBUTES = (Public, ); }; };
 		53FDED322B64826100577748 /* fit_device_aux_battery_info_mesg_listener.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 53FDEC462B64825B00577748 /* fit_device_aux_battery_info_mesg_listener.hpp */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -247,6 +254,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		535EC70D2B65A7D1006A80E0 /* FitFieldDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitFieldDefinition.h; sourceTree = "<group>"; };
+		535EC70E2B65A7D1006A80E0 /* FitDeveloperField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitDeveloperField.h; sourceTree = "<group>"; };
+		535EC70F2B65A7D1006A80E0 /* FitEncode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitEncode.h; sourceTree = "<group>"; };
+		535EC7102B65A7D1006A80E0 /* FitMesg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitMesg.h; sourceTree = "<group>"; };
+		535EC7112B65A7D1006A80E0 /* FitDecode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitDecode.h; sourceTree = "<group>"; };
+		535EC7122B65A7D1006A80E0 /* FitField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitField.h; sourceTree = "<group>"; };
+		535EC7132B65A7D1006A80E0 /* FitMesgDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FitMesgDefinition.h; sourceTree = "<group>"; };
 		53FDEC3B2B64820700577748 /* FitSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FitSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		53FDEC3E2B64820700577748 /* FitSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FitSDK.h; sourceTree = "<group>"; };
 		53FDEC452B64825B00577748 /* fit_cadence_zone_mesg_listener.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = fit_cadence_zone_mesg_listener.hpp; sourceTree = "<group>"; };
@@ -517,6 +531,13 @@
 		53FDEC3D2B64820700577748 /* FitSDK */ = {
 			isa = PBXGroup;
 			children = (
+				535EC7112B65A7D1006A80E0 /* FitDecode.h */,
+				535EC70E2B65A7D1006A80E0 /* FitDeveloperField.h */,
+				535EC70F2B65A7D1006A80E0 /* FitEncode.h */,
+				535EC7122B65A7D1006A80E0 /* FitField.h */,
+				535EC70D2B65A7D1006A80E0 /* FitFieldDefinition.h */,
+				535EC7102B65A7D1006A80E0 /* FitMesg.h */,
+				535EC7132B65A7D1006A80E0 /* FitMesgDefinition.h */,
 				53FDECE12B64825F00577748 /* fit_accelerometer_data_mesg_listener.hpp */,
 				53FDED1A2B64826000577748 /* fit_accelerometer_data_mesg.hpp */,
 				53FDEC732B64825C00577748 /* fit_accumulated_field.cpp */,
@@ -971,6 +992,13 @@
 				53FDED9A2B64826100577748 /* fit_capabilities_mesg_listener.hpp in Headers */,
 				53FDEDDB2B64826100577748 /* fit_ant_channel_id_mesg_listener.hpp in Headers */,
 				53FDED372B64826100577748 /* fit_buffered_record_mesg_listener.hpp in Headers */,
+				535EC7172B65A7D1006A80E0 /* FitMesg.h in Headers */,
+				535EC7142B65A7D1006A80E0 /* FitFieldDefinition.h in Headers */,
+				535EC7162B65A7D1006A80E0 /* FitEncode.h in Headers */,
+				535EC7152B65A7D1006A80E0 /* FitDeveloperField.h in Headers */,
+				535EC7192B65A7D1006A80E0 /* FitField.h in Headers */,
+				535EC71A2B65A7D1006A80E0 /* FitMesgDefinition.h in Headers */,
+				535EC7182B65A7D1006A80E0 /* FitDecode.h in Headers */,
 				53FDEE172B64826100577748 /* fit_field.hpp in Headers */,
 				53FDEDE92B64826100577748 /* fit_climb_pro_mesg_listener.hpp in Headers */,
 				53FDED842B64826100577748 /* fit_exd_data_field_configuration_mesg_listener.hpp in Headers */,
