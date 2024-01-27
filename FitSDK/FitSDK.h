@@ -228,3 +228,10 @@ FOUNDATION_EXPORT const unsigned char FitSDKVersionString[];
 #import <FitSDK/fit_zones_target_mesg_listener.hpp>
 #import <FitSDK/fit_zones_target_mesg.hpp>
 #import <FitSDK/fit.hpp>
+#import <FitSDK/FitDecode.h>
+#import <FitSDK/FitEncode.h>
+#import <FitSDK/FitMesgDefinition.h>
+#import <FitSDK/FitMesg.h>
+#import <FitSDK/FitFieldDefinition.h>
+#import <FitSDK/FitField.h>
+#import <FitSDK/FitDeveloperField.h>
